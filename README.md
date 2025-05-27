@@ -38,7 +38,7 @@
     img{
         height: 160px;
         width: 160px;
-        padding-left:45px ;
+        padding-left:45px;
         padding-top: 25px;
     }
 </style>
