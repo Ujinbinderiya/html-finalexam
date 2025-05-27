@@ -45,7 +45,7 @@
 <body>
     <div id="head">12A UJINBINDERIYA</div>
     <h1>Student Profile</h1>
-<div class="bugd">
+    <div class="bugd">
     <div class="durvuljin">
         <img src="c:\Users\badma\OneDrive\Desktop\final.jpg" alt="pink">
         <p id="ner">Ujin</p>
